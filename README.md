@@ -1,7 +1,7 @@
 # Hi, my name is **Gustavo Cerqueira Araújo** 👋 
 
 <p align="center">
-    <img src="g.png" style="height:200px">
+    <img src="icons/eu.png" style="height:200px">
 </p>
 
 ## I am front-end developer and also studying back-end to become a Fullstack Developer
