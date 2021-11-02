@@ -16,7 +16,7 @@
 
 <br>
 
-![Python](https://img.shields.io/badge/Language-Python-<>?style=plastic&logo=python) ![Django](https://img.shields.io/badge/Framework-Django-<>?style=plastic&logo=django)
+![Python](https://img.shields.io/badge/Language-Python-<>?style=plastic&logo=python) ![Django](https://img.shields.io/badge/FrontEnd-React-<>?style=plastic&logo=react)
 
 <br>
 
