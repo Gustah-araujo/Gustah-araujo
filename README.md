@@ -8,7 +8,7 @@
 
 <br>
 
-![wordpress](https://img.shields.io/badge/Web-Wordpress-<>?style=plastic&logo=wordpress) ![PHP](https://img.shields.io/badge/Language-PHP-<>?style=plastic&logo=php) ![Javascript](https://img.shields.io/badge/Language-PHP-<>?style=plastic&logo=php) ![mysql](https://img.shields.io/badge/Language-Javascript-<>?style=plastic&logo=javascript) ![Laravel](https://img.shields.io/badge/Framework-Laravel-<>?style=plastic&logo=laravel) ![PHP](https://img.shields.io/badge/FrontEnd-HTML/CSS-<>?style=plastic&logo=css)
+![wordpress](https://img.shields.io/badge/Web-Wordpress-<>?style=plastic&logo=wordpress) ![PHP](https://img.shields.io/badge/Language-PHP-<>?style=plastic&logo=php) ![Javascript](https://img.shields.io/badge/Language-JavaScript-<>?style=plastic&logo=javascript) ![mysql](https://img.shields.io/badge/DB-Mysql-<>?style=plastic&logo=mysql) ![Laravel](https://img.shields.io/badge/Framework-Laravel-<>?style=plastic&logo=laravel) ![HTML](https://img.shields.io/badge/FrontEnd-HTML/CSS-<>?style=plastic&logo=css)
 
 <br>
 
