@@ -1,6 +1,6 @@
 # Hi, my name is **Gustavo Cerqueira Araújo** 👋 
 
-## I am front-end developer and also studying back-end to become a Fullstack Developer
+## I am Junior Back-End Developer studying to become a Fullstack Developer
 
 ---
 
