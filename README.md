@@ -2,30 +2,56 @@
 
 ## I am Mid-Level FullStack Developer with a Back-end focus 
 
-## Tools I use 🧰
+### Languages
 
-<br>
+- Portuguese - Native
+- English - Fluent
 
-![Docker](https://img.shields.io/badge/Docker-<>?style=plastic&logo=docker) ![wordpress](https://img.shields.io/badge/Wordpress-<>?style=plastic&logo=wordpress) ![PHP](https://img.shields.io/badge/PHP-<>?style=plastic&logo=php) ![Laravel](https://img.shields.io/badge/Laravel-<>?style=plastic&logo=laravel) ![HTML](https://img.shields.io/badge/HTML-<>?style=plastic&logo=html5) ![HTML](https://img.shields.io/badge/CSS-<>?style=plastic&logo=css3) ![Javascript](https://img.shields.io/badge/JavaScript-<>?style=plastic&logo=javascript)
+### Hard Skills
 
-<br>
+- Linux
+- Docker
+- PHP
+- MySql
+- Laravel
+- Wordpress
+- HTML/CSS/JS
+- REST API Development
+- Clean Code
+- Agile Development
+- Google Analytics
 
-## Tools I am currently learning 📚
+### Soft Skills
 
-<br>
+- Communication
+- Leadership
+- Organization
+- Feedback
+- Experience exchange
 
-![AWS](https://img.shields.io/badge/Cloud-AWS-<>?style=plastic&logo=AmazonAWS)
-
-<br>
-
-## I am looking to work with 👨‍💻
+### I am looking to work with
 
 - Back-End
 - FullStack
 
-<br>
+## Previous Work Experiences
 
-## How to contact me 📬
+### Adapti Web Solutions
+Junior Fullstack Laravel Developer
+<br>
+Aug 2020 - Dec 2020 
+
+### Lefoco Marketing Agency
+Junior Fullstack Laravel/Wordpress Developer
+<br>
+Jan 2021 - Dec 2021 
+
+### Alfasoft Systems (Portugal)
+Mid-Level Fullstack Laravel/Wordpress Developer
+<br>
+Jan 2022 - Apr 2023 
+
+### How to contact me
 
 - Instagram: [@gustavoaraujodev](https://www.instagram.com/gustavoaraujodev/)
 - Email: gustavoc.araujo2001@gmail.com
