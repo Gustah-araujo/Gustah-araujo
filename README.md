@@ -1,14 +1,12 @@
 # Hi, my name is **Gustavo Cerqueira Araújo** 👋 
 
-## I am Junior Back-End Developer studying to become a Fullstack Developer
-
----
+## I am Mid-Level FullStack Developer with a Back-end focus 
 
 ## Tools I use 🧰
 
 <br>
 
-![wordpress](https://img.shields.io/badge/CMS-Wordpress-<>?style=plastic&logo=wordpress) ![PHP](https://img.shields.io/badge/Back_End-PHP-<>?style=plastic&logo=php) ![Laravel](https://img.shields.io/badge/Framework-Laravel-<>?style=plastic&logo=laravel) ![HTML](https://img.shields.io/badge/Front_End-HTML-<>?style=plastic&logo=html5) ![HTML](https://img.shields.io/badge/Front_End-CSS-<>?style=plastic&logo=css3) ![Javascript](https://img.shields.io/badge/Front_End-JavaScript-<>?style=plastic&logo=javascript)
+![Docker](https://img.shields.io/badge/Docker-<>?style=plastic&logo=docker) ![wordpress](https://img.shields.io/badge/Wordpress-<>?style=plastic&logo=wordpress) ![PHP](https://img.shields.io/badge/PHP-<>?style=plastic&logo=php) ![Laravel](https://img.shields.io/badge/Laravel-<>?style=plastic&logo=laravel) ![HTML](https://img.shields.io/badge/HTML-<>?style=plastic&logo=html5) ![HTML](https://img.shields.io/badge/CSS-<>?style=plastic&logo=css3) ![Javascript](https://img.shields.io/badge/JavaScript-<>?style=plastic&logo=javascript)
 
 <br>
 
@@ -31,5 +29,4 @@
 
 - Instagram: [@gustavoaraujodev](https://www.instagram.com/gustavoaraujodev/)
 - Email: gustavoc.araujo2001@gmail.com
-- Whatsapp: [(73)98858-3025](tel:73988583025)
-- My personal Website: [gustavocerqueira.com.br](https://gustavocerqueira.com.br/)
+- Whatsapp: [+55 (47) 99207-1071](tel:+5547992071071)
